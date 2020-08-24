@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Pangolin.jpg
+image: images/Pangolin.png
 title: Pangolin - a Python learning platform
 permalink: projects/pangolin
 # All dates must be YYYY-MM-DD format!
