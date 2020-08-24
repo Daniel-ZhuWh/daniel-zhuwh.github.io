@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/induction.png
+title: How do induction cookers work
+permalink: projects/induction
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-03
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML/CSS
+  - Instructional Design
+  - Collaborative Learning
+summary: A website my team designed and built for teaching a group of learners how an induction cooker works.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/induction_side.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+It's a course project for the course *Tools for Online Learning* at CMU. We used the concept of jigsaw and collaborative learning to design and build a website for teaching how an induction cooker works. You can find the website [here](https://daniel-zhuwh.github.io/TOL2_induction_cooker/).
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I was involved in the discussion of its design and was fully responsible for the implementation of the website.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Github: <a href="https://github.com/Daniel-ZhuWh/TOL2_induction_cooker"><i class="large github icon"></i>Daniel-ZhuWh/TOL2_induction_cooker</a>
