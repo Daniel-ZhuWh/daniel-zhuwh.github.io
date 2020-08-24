@@ -21,7 +21,7 @@ summary: A 7-month capstone project for the client Cross Domain in China to desi
 </div>
 -->
 
-<iframe style="display: block; margin-left: auto; margin-right: auto;" width="960" height="540" src="https://www.youtube.com/embed/132KOHNzde0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin-left: auto; margin-right: auto;" width="720" height="405" src="https://www.youtube.com/embed/132KOHNzde0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Cross Domain is the client we work for in the project. It's a big data company focused on K12 education in Chinese public schools. They devote themselves to educational practices and creates products for delivering educational equality in China and worldwide. 
 
