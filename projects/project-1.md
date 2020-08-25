@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Pangolin.png
-title: Pangolin - a Python learning platform
+title: Pangolin - an inclusive Python learning platform
 permalink: projects/pangolin
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-05
