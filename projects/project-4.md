@@ -28,4 +28,4 @@ We researched three main questions:
 - How are public high schools in New York distributed based on different factors?
 - What factors might influence the average graduation rate of public high schools in NY?
 
-You can find the detailed analysis from [here](https://nbviewer.jupyter.org/github/Daniel-ZhuWh/Final_report_niche/blob/master/Final_analysis.ipynb)
+You can find the detailed analysis from [here](https://nbviewer.jupyter.org/github/Daniel-ZhuWh/Final_report_niche/blob/master/Final_analysis.ipynb).
