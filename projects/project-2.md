@@ -16,7 +16,7 @@ summary: A website my team designed and built for teaching a group of learners h
 
 <img class="ui medium right floated rounded image" src="../images/induction_side.png">
 
-It's a course project spanning one month for the course *Tools for Online Learning* at CMU. We used the concept of jigsaw and collaborative learning to design and build a website for teaching how an induction cooker works. You can find the website [here](https://daniel-zhuwh.github.io/TOL2_induction_cooker/). You can also find the full [instructional video](https://www.youtube.com/watch?v=HJUrWq43uuo) here.
+It's a course project spanning one month for the course *Tools for Online Learning* at CMU. We used the concept of jigsaw and collaborative learning to design and build a website for teaching how an induction cooker works. You can find the website [here](https://daniel-zhuwh.github.io/TOL2_induction_cooker/). You can also find the full [instructional video](https://www.youtube.com/watch?v=HJUrWq43uuo) here. (That's my voice :P)
 
 I was involved in the discussion of its design and was fully responsible for the implementation of the website.
  
