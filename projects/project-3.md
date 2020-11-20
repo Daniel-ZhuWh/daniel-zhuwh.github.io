@@ -10,7 +10,7 @@ labels:
   - Ruby
   - Sinatra
   - Conversational UI
-summary: A conversational bot that I built for helping people keep track of their diet. It operates through SMS.
+summary: A conversational bot that I built for helping people keep track of their diet. It operates through SMS and Alexa.
 ---
 
 <div class="ui small rounded images">
