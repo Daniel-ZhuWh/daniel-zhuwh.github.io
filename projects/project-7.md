@@ -13,7 +13,7 @@ labels:
 summary: I helped a UX designer to create her own site for hosting useful resources for UX designers' work. Bootstrap was used to make it responsive for all screen sizes. Check it out!
 ---
 
-<img class="ui medium right floated rounded image" src="../images/carolsite.jpg">
+<img class="ui medium right floated rounded image" src="../images/carolsite.png">
 
 I helped Carol, a UX designer, to create her own site for hosting useful resources for UX designers' work, during which time I closely collaborated with her. Bootstrap was used to make it responsive for all screen sizes. Check out the website [here!](https://daniel-zhuwh.github.io/Carol-Site/) 
 
